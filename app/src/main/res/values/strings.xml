@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies 1</string>
+    <string name="movie_poster_description">Movie Poster</string>
+    <string name="activity_movie_details_title">Movie Details</string>
+    <string name="no_internet_text_view">No Internet Available</string>
+    <string name="oops">Oooops! Looks like there is no Internet available</string>
+    <string name="try_again">Please, try again later</string>
+    <string name="api_key">YOUR_API_KEY</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="sort_by">Sort By</string>
+
+
+</resources>
