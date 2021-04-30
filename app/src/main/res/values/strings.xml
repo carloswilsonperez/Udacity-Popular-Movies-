@@ -5,10 +5,8 @@
     <string name="no_internet_text_view">No Internet Available</string>
     <string name="oops">Oooops! Looks like there is no Internet available</string>
     <string name="try_again">Please, try again later</string>
-    <string name="api_key">YOUR_API_KEY</string>
+    <string name="api_key">c880cb5096a2a9682f9f85ace1a3a7ef</string>
     <string name="most_popular">Most Popular</string>
     <string name="top_rated">Top Rated</string>
     <string name="sort_by">Sort By</string>
-
-
 </resources>
